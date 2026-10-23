@@ -1,5 +1,13 @@
 # Signalfit
 
+<p align="left">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/></a>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"/>
+  <img src="https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Vector_Search-FAISS-yellow.svg" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Status-Maintained-success.svg" alt="Maintained"/>
+</p>
+
 conversational retrieval for recruitment assessment recommendation
 
 ## FastAPI app
